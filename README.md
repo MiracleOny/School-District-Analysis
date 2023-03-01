@@ -2,7 +2,7 @@
 
 ## Overview
 
-I will be analyzing data on student funding and students' standardized test scores using Pandas.
+Maria has gotten a new version of the student data with several changes. This includes an additional column: "school budget". She wants you to rework part of your analysis by using the new dataset.
 
 ## Results
 Discoveries:
