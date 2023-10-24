@@ -13,5 +13,6 @@ Discoveries:
 - Despite less funding, students attending Charter schools were more likely to have higher math scores than students attending public school
 - For reading scores, students attending public school were more likely to score higher than students attending charter schools
 
+## Summary
 Based on the data, funding may not be the reason why there are discrepencies between students in charter and public schools. Rather, differences could be a results of class size, funding allocations, access to additional resources, and number of hours spent in class. Future research should focus on identifying how funding is allocated and other factors that may impact student test scores.
 
