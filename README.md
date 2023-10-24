@@ -1,8 +1,7 @@
 # School District Analysis
 
 ## Overview
-
-Maria has gotten a new version of the student data with several changes. This includes an additional column: "school budget". She wants you to rework part of your analysis by using the new dataset.
+The chief data scientist for a city school district has gotten a new version of student data with several changes. This includes an additional column: "school budget". I will analyze data on student funding and students' standardized (math and reading) test scores and present trends in school performance.
 
 ## Results
 Discoveries:
